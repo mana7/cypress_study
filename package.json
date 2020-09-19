@@ -1,0 +1,14 @@
+{
+  "name": "cypress_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "author": "mana",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.1.0"
+  }
+}
